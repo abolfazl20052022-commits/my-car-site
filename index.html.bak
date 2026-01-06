@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحه اول من</title>
+</head>
+<body>
+    <h1>سلام باباییی!</h1>
+    <p>خیلی دوست دارمممم HTML .</p>
+    
+    <h2>درباره عشق من به تو</h2>
+    <p>تو تک تک لحظه ها کنارتم دخترم.</p>
+    
+    <hr>
+    
+    <h3>علاقه‌مندی‌هایه من نسبت ب تو:</h3>
+    <ul>
+        <li>چشمات</li>
+        <li>موهات</li>
+        <li>میمی</li>
+    </ul>
+    
+    <h3>امیدوارم کنار هم موفق بشیم:</h3>
+    <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ol>
+    
+    <img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="تصویر نمونه" width="300">
+    
+    <p>
+        برای اطلاعات بیشتر به 
+        <a href="https://www.w3schools.com/html/" target="_blank">سایت W3Schools</a> 
+        مراجعه کنید.
+    </p>
+</body>
+</html>
+
